@@ -1,4 +1,4 @@
-# publish-on-github-pages
+# Github Pages
 [Beginner] GitHub - Deploy on GitHub pages
 
 ## What is GitHub Pages?
@@ -12,6 +12,5 @@
 ![Settings](https://help.github.com/assets/images/help/repository/repo-actions-settings.png)
 1. Use the Select source drop-down menu to select **master** as your GitHub Pages publishing source.
 ![Branch Select](https://help.github.com/assets/images/help/pages/select-gh-pages-or-master-as-source.png)
-1. Click `Save`
-![Save](https://help.github.com/assets/images/help/pages/click-save-next-to-source-selection.png)
+1. Click**Save**.
 1. Scroll back down to GitHub Pages and you should see a link that takes you to your project
